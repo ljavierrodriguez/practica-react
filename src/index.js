@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import App from './App';
+import App from './AppClass';
 
 
 
